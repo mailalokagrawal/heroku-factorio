@@ -1,0 +1,7 @@
+{
+    "name": "Heroku Factorio",
+    "description": "A mini factorio game built on Heroku",
+    "repository": "https://github.com/mailalokagrawal/heroku-factorio.git",
+    "logo": "https://res.cloudinary.com/kolaliam/image/upload/v1654077178/heroku/qr0j43bvt5a11_aztocj.jpg",
+    "keywords": ["heroku", "factorio"]
+  }
