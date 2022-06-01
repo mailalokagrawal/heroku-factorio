@@ -18,6 +18,19 @@
         },
         {
           "plan": "papertrail:choklad"
+        },
+        {
+          "plan": "cloudamqp:lemur"
         }
-    ]
+    ],
+    "formation": {
+      "web": {
+        "quantity": 1,
+        "size": "free"
+      },
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
   }
